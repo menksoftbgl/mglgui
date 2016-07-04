@@ -1,3 +1,3 @@
 # mglgui
-mongolian graphical user interface 
-official site http://menksoftbgl.github.io/mglgui
+traditional mongolian vertical layout graphical user interface http://menksoftbgl.github.io/mglgui
+
